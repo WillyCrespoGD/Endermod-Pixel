@@ -1,8 +1,8 @@
-# The Homebrew Launcher
+# The Endermod Pixel
 
 #### Presentation
 
-The Homebrew Launcher (hbmenu for short) is a fairly simple (and beautiful) menu that lists homebrew applications in the 3DSX format and lets you run them. It can be used with the following entrypoints:
+The Endermod Pixel (empixel for short) is a fairly simple (and beautiful) menu that lists homebrew applications in the 3DSX format and lets you run them. It can be used with the following entrypoints:
 
 - ninjhax 1.x (the original 3DS homebrew exploit, originally released in November 2014)
 - hax 2.x (the followup to ninjhax, originally released in July 2015)
